@@ -18,7 +18,7 @@ class Player
     {
         if(this.y == height - this.size)
         {
-            this.velocity_Y = -9;
+            this.velocity_Y = -17;
         }
     }
 
